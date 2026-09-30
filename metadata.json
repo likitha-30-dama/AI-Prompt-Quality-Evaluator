@@ -1,0 +1,6 @@
+{
+  "name": "SecureAuth Web Hub",
+  "description": "Modern, secure user login and registration portal powered by Firebase Authentication with email/password, Google sign-in, and profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
